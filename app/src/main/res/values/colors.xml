@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+<!--    <color name="black">#FF000000</color>-->
+<!--    <color name="white">#FFFFFFFF</color>-->
+<!--</resources>-->
+<resources>
+    <!-- Primary Green Colors -->
+    <color name="primary_green">#2D9F5D</color>
+    <color name="primary_green_dark">#1B7A44</color>
+    <color name="primary_green_light">#4CAF6E</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_green">#34D07E</color>
+    <color name="accent_orange">#FF9800</color>
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_off_white">#F7F9FA</color>
+    <color name="background_light_gray">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1D1F</color>
+    <color name="text_secondary">#6A6F73</color>
+    <color name="text_hint">#A1A7A8</color>
+
+    <!-- Card and Border Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="border_light">#E0E0E0</color>
+    <color name="divider">#D1D7DC</color>
+
+    <!-- Status Colors -->
+    <color name="success">#28A745</color>
+    <color name="error">#DC3545</color>
+    <color name="warning">#FFC107</color>
+</resources>
